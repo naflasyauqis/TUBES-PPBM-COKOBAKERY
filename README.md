@@ -1,6 +1,9 @@
 # cokobakery
 
-A new Flutter project.
+A Flutter project by 
+Nafla Syauqi S 7708220039
+Indah Maria Angelica 7708220045
+Ina Risky Tri H  7708220096
 
 ## Getting Started
 
